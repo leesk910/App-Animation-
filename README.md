@@ -16,6 +16,8 @@ Headeranimation.
 
 
 
+![App Animation](SeqGif.gif)
+
 
 Headeranimation code..
 
