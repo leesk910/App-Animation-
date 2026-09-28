@@ -36,6 +36,4 @@ Navigation Animation code
 
 Final Result : Animation video
 [▶️ Watch App Demo](https://github.com/leesk910/App-Animation-/blob/main/animation-video.mp4)
-![Animation video App](animation-video.mp4)
 
-![Headeranimation App](Sequence-01.mp4)
