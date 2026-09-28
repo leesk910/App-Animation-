@@ -33,4 +33,4 @@ Navigation Animation code
 
 
 Final Result : Animation video
-![Animation video App](animation-video.mp4.png)
+![Animation video App](animation-video.mp4)
