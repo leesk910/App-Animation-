@@ -16,9 +16,6 @@ Headeranimation.
 
 
 
-![App Animation](SeqGif.gif)
-
-
 Headeranimation code..
 
 
@@ -26,7 +23,14 @@ Headeranimation code..
 
 
 
+
+![App Animation](SeqGif.gif)
+
+
+
+
 ![Headeranimation App](hearderanimation.png)
+
 
 
 Navigation Animation code
