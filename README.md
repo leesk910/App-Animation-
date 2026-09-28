@@ -16,9 +16,6 @@ Headeranimation.
 
 
 
-![Headeranimation App](Sequence-01.mp4)
-
-
 
 Headeranimation code..
 
@@ -38,4 +35,7 @@ Navigation Animation code
 
 
 Final Result : Animation video
+[▶️ Watch App Demo](YOUR_GITHUB_VIDEO_LINK)
 ![Animation video App](animation-video.mp4)
+
+![Headeranimation App](Sequence-01.mp4)
